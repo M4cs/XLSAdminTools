@@ -1,0 +1,7 @@
+{
+  "Name": "XLSAdminTools",
+  "AssemblyName": "XLSAdminTools.dll",
+  "StartupMethod": "XLSAdminTools.Main:Load",
+  "ServerVersion": "0.9.2",
+  "DependencyZIP": "Macs.XLSAdminToolsClient.zip"
+}

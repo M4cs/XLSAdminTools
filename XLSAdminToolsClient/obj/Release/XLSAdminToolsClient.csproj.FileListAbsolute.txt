@@ -1,0 +1,7 @@
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\Macs.XLSAdminToolsClient\Info.json
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\Macs.XLSAdminToolsClient\XLSAdminToolsClient.dll
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\Macs.XLSAdminToolsClient\XLSAdminToolsClient.pdb
+C:\Users\Max\XLMultiplayer\XLSAdminToolsClient\obj\Release\XLSAdminToolsClient.dll
+C:\Users\Max\XLMultiplayer\XLSAdminToolsClient\obj\Release\XLSAdminToolsClient.pdb
+C:\Users\Max\XLMultiplayer\XLSAdminToolsClient\obj\Release\XLSAdminToolsClient.csprojAssemblyReference.cache
+C:\Users\Max\XLMultiplayer\XLSAdminToolsClient\obj\Release\XLSAdminToolsClient.csproj.CopyComplete

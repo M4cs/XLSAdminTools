@@ -1,0 +1,16 @@
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\GameNetworkingSockets.dll
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\libcrypto-1_1-x64.dll
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\libprotobuf.dll
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\ServerConfig.json
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\XLSAdminTools.dll
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\XLSAdminTools.pdb
+C:\Users\Max\XLMultiplayerServerTest\Plugins\Macs.XLSAdminTools\Info.json
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\Info.json
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\XLSAdminTools.dll
+C:\Users\Max\Documents\Test1.12.2\plugins\Server\Plugins\Macs.XLSAdminTools\XLSAdminTools.pdb
+C:\Users\Max\Downloads\Server\Plugins\Macs.XLSAdminTools\Info.json
+C:\Users\Max\Downloads\Server\Plugins\Macs.XLSAdminTools\XLSAdminTools.dll
+C:\Users\Max\Downloads\Server\Plugins\Macs.XLSAdminTools\XLSAdminTools.pdb
+C:\Users\Max\XLMultiplayer\XLSAdminTools\obj\Release\XLSAdminTools.dll
+C:\Users\Max\XLMultiplayer\XLSAdminTools\obj\Release\XLSAdminTools.pdb
+C:\Users\Max\XLMultiplayer\XLSAdminTools\obj\Release\XLSAdminTools.csprojAssemblyReference.cache

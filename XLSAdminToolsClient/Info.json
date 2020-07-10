@@ -1,0 +1,4 @@
+{
+  "AssemblyName": "XLSAdminToolsClient.dll",
+  "StartupMethod": "XLSAdminToolsClient.Main:Load"
+}
